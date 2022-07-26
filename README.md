@@ -30,8 +30,3 @@
 
 ### *__What's the WAML syntax?__*
 &emsp;&emsp;You can find it in the [offical website](https://TheWhistlers.github.io/WhistlerLib/Documents). Actually, it's not hard to study. You can even study it easily! (because I'm not the devil of the programming!)
-<style>
-* {
-    font-family : Consolas;
-}
-</style>
